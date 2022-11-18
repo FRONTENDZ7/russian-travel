@@ -39,5 +39,6 @@
     grid-template-rows: auto;
     grid-gap: 12px;
     margin-top: 64px;
+    padding: 0;
   }
 }
