@@ -30,5 +30,6 @@
   .places {
     margin-top: 64px;
     grid-gap: 50px;
+    padding: 0;
   }
 }
