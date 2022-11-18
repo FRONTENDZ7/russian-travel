@@ -7,16 +7,18 @@
   margin: 8px 0 0;
 }
 
-
-@media (max-width: 768px) {
+@media (max-width: 970px) {
   .lead__caption {
-  	margin-left: 24px;
+    margin: 0;
+    padding: 8px 24px 0;
   }
 }
+
 @media (max-width: 425px) {
-    .lead__caption {
-  	  margin-left: 16px;
-  	  font-size: 10px;
-      line-height: 14px;
-    }
+  .lead__caption {
+    padding-right: 15px;
+    padding-left: 15px;
+    font-size: 10px;
+    line-height: 14px;
+  }
 }

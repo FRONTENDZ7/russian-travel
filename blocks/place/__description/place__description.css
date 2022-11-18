@@ -4,9 +4,8 @@
   grid-template-rows: max-content;
 }
 
-
 @media (max-width: 425px) {
-    .place__description {
-      grid-gap: 25px;
-    }
+  .place__description {
+    grid-gap: 25px;
+  }
 }

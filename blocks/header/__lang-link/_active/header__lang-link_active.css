@@ -1,11 +1,9 @@
 .header__lang-link_active {
-  border-bottom: 2px solid #FFFFFF;
+  border-bottom: 2px solid #ffffff;
 }
 
-
 @media (max-width: 425px) {
-
   .header__lang-link_active {
-    border-bottom: 1px solid #FFFFFF;
-  } 
+    border-bottom: 1px solid #ffffff;
+  }
 }
