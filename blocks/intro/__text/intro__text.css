@@ -11,6 +11,7 @@
     max-width: inherit;
   }
 }
+
 @media (max-width: 425px) {
   .intro__text {
     font-size: 16px;

@@ -4,6 +4,7 @@
   font-weight: 400;
   color: inherit;
 }
+
 .place__link:hover {
   opacity: 0.8;
 }
