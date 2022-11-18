@@ -2,11 +2,11 @@
   width: 100%;
 }
 
-@media (max-width: 700px) {
+/* @media (max-width: 700px) {
   .place__image {
     max-width: 485px;
   }
-}
+} */
 
 @media (max-width: 425px) {
   .place__image {
